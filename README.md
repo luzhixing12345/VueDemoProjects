@@ -13,15 +13,13 @@
 
 ## 简介
 
-既应该保证一个页面的完整性,真正意义上的**拿来即用**.也应该保证布局/样式/事件之间的独立性,做到**模块化,易修改,好分离**
+既应该保证一个页面的完整性,真正意义上的**拿来即用**.
 
-你可以在[页面展示](https://luzhixing12345.github.io/html-css-js/)中快速浏览所有内容
+也应该保证布局/样式/事件之间的独立性,做到**模块化,易修改,好分离**
 
 ## 目录
 
 - `examples` 文件夹下每一个子文件夹记录了完整的前端布局
-
-  > [页面展示](https://luzhixing12345.github.io/html-css-js/)中的 `进入页面` 按钮会跳转到对应的文件夹下
 
   如果当前页面的组合已经可以令人满意,那么你可以直接拿来使用
 
@@ -31,86 +29,62 @@
 
 所有相关说明,注意事项,修改部分和实现思路均记录在 `README` 中,如需修改请阅读
 
+## 展示
+
+点击图片进入对应文件夹查看README
+
+### 输入字段文本动画
+
+[![input-text](https://raw.githubusercontent.com/learner-lu/picbed/master/input-text.gif)](examples/text-input/README.md)
+
 ## 前端常用的网站收藏
 
 > 免费/易用/好用
 
 ### 找ICON的
 
-- https://www.iconfont.cn/
-
-  阿里开源, 图标库 + 矢量插画库, 找ICON
-
-- https://fontawesome.com/search
-
-  HTML标签版的ICON, 种类丰富无需下载图片直接调用,支持HTML/React/Vue
-
-- https://feathericons.com/
-
-  极简 ICON,点击就下,不搞花哨
-
-- https://iconsvg.xyz/
-
-  自定义设计,基础icon小修小改
+|网址|介绍|
+|:--:|:--:|
+|https://www.iconfont.cn/|阿里开源, 图标库 + 矢量插画库, 找ICON|
+|https://fontawesome.com/search|HTML标签版的ICON, 种类丰富无需下载图片直接调用,支持HTML/React/Vue|
+|https://feathericons.com/|极简 ICON,点击就下,不搞花哨|
+|https://iconsvg.xyz/|自定义设计,基础icon小修小改|
 
 ### 找颜色的
 
-- https://htmlcolorcodes.com/zh/
-
-  HTML颜色选择器,各种颜色代码,方便简洁
-
-- https://color.uisdc.com/
-
-  色彩配色选择,多种配色参考
-
-- https://uigradients.com/
-
-  多种渐变色推荐
-
-- http://www.jiniannet.com/page/allcolor
-
-  图片取颜色,直接拿到色彩值
+|网址|介绍|
+|:--:|:--:|
+|https://htmlcolorcodes.com/zh/|HTML颜色选择器,各种颜色代码,方便简洁|
+|https://color.uisdc.com/|色彩配色选择,多种配色参考|
+|https://uigradients.com/|多种渐变色推荐|
+|http://www.jiniannet.com/page/allcolor|图片取颜色,直接拿到色彩值|
 
 ### 找样式的
 
-- https://neumorphism.io
+|网址|介绍|
+|:--:|:--:|
+|https://neumorphism.io|实现新拟态效果,自定义|
 
-  实现新拟态效果,自定义
 
 ### 综合 + 非常好用
 
-- https://html5up.net/
-
-  提供大量的HTML5模版
-
-- https://codesandbox.io/
-
-  主流的框架如 React、Vue、Angular 等，都可即开即用、实时编译预览，非常方便
-
-- https://codepen.io/
-
-  在线编辑 + 丰富的demo
+|网址|介绍|
+|:--:|:--:|
+|https://html5up.net/|提供大量的HTML5模版,但是有点不易拆解|
+|https://codesandbox.io/|主流的框架如 React、Vue、Angular 等，都可即开即用、实时编译预览，非常方便|
+|https://codepen.io/|在线编辑 + 丰富的demo|
 
 ### 学习网站
 
-- https://bonsaiden.github.io/JavaScript-Garden/zh/
-
-  JavaScript 的语法文档，主要会写如何去避免一些常见的错误, 非常纤细(中文)
-
-- http://flexboxfroggy.com
-
-  学习flex布局,生动有趣
-
-- https://zh.learnlayout.com/
-
-  学习CSS布局,详细,高效,新手入门
+|网址|介绍|
+|:--:|:--:|
+|https://bonsaiden.github.io/JavaScript-Garden/zh/|JavaScript 的语法文档，主要会写如何去避免一些常见的错误, 非常纤细(中文)|
+|http://flexboxfroggy.com|学习flex布局,生动有趣|
+|https://zh.learnlayout.com/|学习CSS布局,详细,高效,新手入门|
 
 ### 其他
 
-- https://www.javascript.fun/
-
-  开源 JS 库集合
-
-- https://cssbattle.dev/
-  
-  在线比拼CSS代码技巧,很有趣
+|网址|介绍|
+|:--:|:--:|
+|https://www.javascript.fun/|开源 JS 库集合|
+| https://cssbattle.dev/|在线比拼CSS代码技巧,很有趣|
