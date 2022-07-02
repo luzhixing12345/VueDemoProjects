@@ -40,3 +40,5 @@
   ```
 
   > 一般来说都设置这一项,便于计算
+
+- [JavaScript 中 mouseover、mouseenter 和 mousemove 事件的区别](https://www.geeksforgeeks.org/difference-between-mouseover-mouseenter-and-mousemove-events-in-javascript/)
