@@ -26,3 +26,9 @@ background:  linear-gradient(315deg, #ffffff 0%, #d7e1ec 94%);
 https://segmentfault.com/a/1190000003711146
 
 https://developer.mozilla.org/zh-CN/docs/Web/CSS/:focus-within
+
+## box-shadow
+
+```css
+box-shadow: 10px 10px 20px rgba(33, 44, 55, 0.3);
+```

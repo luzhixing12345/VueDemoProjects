@@ -5,15 +5,13 @@
 
 ## 简介
 
-该仓库用于记录一些拿来即用的HTML布局,CSS样式,JS事件.
-
-例子大部分上来自开源作品的模仿/复制/修改,来源均在相应README中标注
+该仓库用于记录一些拿来即用的HTML布局,CSS样式,JS事件.大部分上来自开源作品的模仿/复制/修改
 
 既应该保证一个页面的完整性,真正意义上的**拿来即用**.
 
 也应该保证布局/样式/事件之间的独立性,做到**模块化,易修改,好分离**
 
-## [在线预览]()
+## [在线预览](https://luzhixing12345.github.io/html-css-js/)
 
 ## 目录
 
@@ -29,7 +27,7 @@
 
 ## 前端常用的网站收藏
 
-) 免费/易用/好用
+> 免费/易用/好用
 
 ### 找ICON的
 
@@ -48,6 +46,8 @@
 |[网址](https://color.uisdc.com/)|色彩配色选择,多种配色参考|
 |[网址](https://uigradients.com/)|多种渐变色推荐|
 |[网址](http://www.jiniannet.com/page/allcolor)|图片取颜色,直接拿到色彩值|
+|[网址](https://webgradients.com/)|渐变配色方案|
+|[网址](http://www.divcss5.com/peise/)|色相搭配,**很有帮助**|
 |[网址](http://www1.ynao.ac.cn/~jinhuahe/know_base/othertopics/computerissues/RGB_colortable.htm)|常用RGB颜色推荐|
 
 ### 找样式的
