@@ -18,6 +18,10 @@ Vue组件 和 [50projects50days](https://github.com/bradtraversy/50projects50day
 
 - [flex布局](https://www.zhihu.com/search?type=content&q=flex)
 
-## [工具网站收藏](./docs/collections.md)
+<details><summary>其他</summary>
 
-## [常用代码片段](./docs/frequentUse.md)
+- [工具网站收藏](./docs/collections.md)
+- [常用代码片段](./docs/frequentUse.md)
+- [CSS标签选择器](./docs/css-selector.md)
+
+</details>

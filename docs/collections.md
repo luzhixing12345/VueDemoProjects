@@ -8,6 +8,7 @@
 |[网址](https://fontawesome.com/search)|HTML标签版的ICON, 种类丰富无需下载图片直接调用,支持HTML/React/Vue|
 |[网址](https://feathericons.com/)|极简 ICON,点击就下,不搞花哨|
 |[网址](https://iconsvg.xyz/)|自定义设计,基础icon小修小改|
+|[网址](https://simpleicons.org/?q=python)|简单图标,直接|
 
 ## 找颜色的
 
